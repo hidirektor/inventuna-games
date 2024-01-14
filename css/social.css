@@ -1,0 +1,48 @@
+@font-face {
+    font-family: 'RhodiumLibre-Regular';
+    src: url('fonts/RhodiumLibre-Regular.ttf') format('ttf');
+    font-weight: normal;
+    font-style: normal;
+}
+
+.header-social ul {
+    display: flex;
+    flex-wrap: wrap;
+}
+.header-social ul li {
+    display: block;
+    margin-right: 9px;
+}
+.header-social ul li a {
+    width: 36px;
+    height: 36px;
+    background: #f09433;
+    background: -moz-linear-gradient(45deg, #f09433 0%, #e6683c 25%, #dc2743 50%, #cc2366 75%, #bc1888 100%);
+    background: -webkit-linear-gradient(45deg, #f09433 0%,#e6683c 25%,#dc2743 50%,#cc2366 75%,#bc1888 100%);
+    background: linear-gradient(45deg, #f09433 0%,#e6683c 25%,#dc2743 50%,#cc2366 75%,#bc1888 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f09433', endColorstr='#bc1888',GradientType=1 );
+    display: block;
+    text-align: center;
+    line-height: 36px;
+    justify-content: center;
+    align-items: center;
+    color: #fff;
+    font-size: 14px;
+    border-radius: 2px;
+}
+.header-social ul li:nth-child(2) a {
+    background: #55acee;
+}
+.header-social ul li:nth-child(3) a {
+    background: #6441a5;
+}
+.header-social ul li:nth-child(4) a {
+    background: #5865F2;
+}
+
+.trailer-text {
+    font-family: 'RhodiumLibre-Regular';
+    font-weight: normal;
+    margin-left: 10px;
+    color: #ffffff;
+}

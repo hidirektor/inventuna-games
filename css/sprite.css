@@ -1,0 +1,602 @@
+.icon-lieutenant-element-fire-act{
+    background-image: url(https://static-global.goatgames.com/ops-static/DHS-GB/official/assets/images/sprite.png?v=4052335859);
+    background-repeat: no-repeat;
+    background-position: 0px -4446px;
+    width:74px;
+    height:78px;
+}
+.icon-lieutenant-element-fire{
+    background-image: url(https://static-global.goatgames.com/ops-static/DHS-GB/official/assets/images/sprite.png?v=4052335859);
+    background-repeat: no-repeat;
+    background-position: 0px -4524px;
+    width:74px;
+    height:78px;
+}
+.icon-lieutenant-element-natural-act{
+    background-image: url(https://static-global.goatgames.com/ops-static/DHS-GB/official/assets/images/sprite.png?v=4052335859);
+    background-repeat: no-repeat;
+    background-position: 0px -4602px;
+    width:74px;
+    height:79px;
+}
+.icon-lieutenant-element-natural{
+    background-image: url(https://static-global.goatgames.com/ops-static/DHS-GB/official/assets/images/sprite.png?v=4052335859);
+    background-repeat: no-repeat;
+    background-position: 0px -4681px;
+    width:74px;
+    height:79px;
+}
+.icon-lieutenant-element-water-act{
+    background-image: url(https://static-global.goatgames.com/ops-static/DHS-GB/official/assets/images/sprite.png?v=4052335859);
+    background-repeat: no-repeat;
+    background-position: 0px -4760px;
+    width:74px;
+    height:79px;
+}
+.icon-lieutenant-element-water{
+    background-image: url(https://static-global.goatgames.com/ops-static/DHS-GB/official/assets/images/sprite.png?v=4052335859);
+    background-repeat: no-repeat;
+    background-position: 0px -4839px;
+    width:74px;
+    height:79px;
+}
+.icon-lieutenant-retinue-alwy-act{
+    background-image: url(https://static-global.goatgames.com/ops-static/DHS-GB/official/assets/images/sprite.png?v=4052335859);
+    background-repeat: no-repeat;
+    background-position: 0px -6138px;
+    width:93px;
+    height:123px;
+}
+.icon-lieutenant-retinue-alwy-jn1-act{
+    background-image: url(https://static-global.goatgames.com/ops-static/DHS-GB/official/assets/images/sprite.png?v=4052335859);
+    background-repeat: no-repeat;
+    background-position: 0px 0px;
+    width:74px;
+    height:74px;
+}
+.icon-lieutenant-retinue-alwy-jn1{
+    background-image: url(https://static-global.goatgames.com/ops-static/DHS-GB/official/assets/images/sprite.png?v=4052335859);
+    background-repeat: no-repeat;
+    background-position: 0px -74px;
+    width:74px;
+    height:74px;
+}
+.icon-lieutenant-retinue-alwy-jn2-act{
+    background-image: url(https://static-global.goatgames.com/ops-static/DHS-GB/official/assets/images/sprite.png?v=4052335859);
+    background-repeat: no-repeat;
+    background-position: 0px -148px;
+    width:74px;
+    height:74px;
+}
+.icon-lieutenant-retinue-alwy-jn2{
+    background-image: url(https://static-global.goatgames.com/ops-static/DHS-GB/official/assets/images/sprite.png?v=4052335859);
+    background-repeat: no-repeat;
+    background-position: 0px -222px;
+    width:74px;
+    height:74px;
+}
+.icon-lieutenant-retinue-alwy-jn3-act{
+    background-image: url(https://static-global.goatgames.com/ops-static/DHS-GB/official/assets/images/sprite.png?v=4052335859);
+    background-repeat: no-repeat;
+    background-position: 0px -296px;
+    width:74px;
+    height:74px;
+}
+.icon-lieutenant-retinue-alwy-jn3{
+    background-image: url(https://static-global.goatgames.com/ops-static/DHS-GB/official/assets/images/sprite.png?v=4052335859);
+    background-repeat: no-repeat;
+    background-position: 0px -370px;
+    width:74px;
+    height:74px;
+}
+.icon-lieutenant-retinue-alwy{
+    background-image: url(https://static-global.goatgames.com/ops-static/DHS-GB/official/assets/images/sprite.png?v=4052335859);
+    background-repeat: no-repeat;
+    background-position: 0px -6261px;
+    width:93px;
+    height:123px;
+}
+.icon-lieutenant-retinue-blqt-act{
+    background-image: url(https://static-global.goatgames.com/ops-static/DHS-GB/official/assets/images/sprite.png?v=4052335859);
+    background-repeat: no-repeat;
+    background-position: 0px -6384px;
+    width:93px;
+    height:123px;
+}
+.icon-lieutenant-retinue-blqt-jn1-act{
+    background-image: url(https://static-global.goatgames.com/ops-static/DHS-GB/official/assets/images/sprite.png?v=4052335859);
+    background-repeat: no-repeat;
+    background-position: 0px -444px;
+    width:74px;
+    height:74px;
+}
+.icon-lieutenant-retinue-blqt-jn1{
+    background-image: url(https://static-global.goatgames.com/ops-static/DHS-GB/official/assets/images/sprite.png?v=4052335859);
+    background-repeat: no-repeat;
+    background-position: 0px -518px;
+    width:74px;
+    height:74px;
+}
+.icon-lieutenant-retinue-blqt-jn2-act{
+    background-image: url(https://static-global.goatgames.com/ops-static/DHS-GB/official/assets/images/sprite.png?v=4052335859);
+    background-repeat: no-repeat;
+    background-position: 0px -592px;
+    width:74px;
+    height:74px;
+}
+.icon-lieutenant-retinue-blqt-jn2{
+    background-image: url(https://static-global.goatgames.com/ops-static/DHS-GB/official/assets/images/sprite.png?v=4052335859);
+    background-repeat: no-repeat;
+    background-position: 0px -666px;
+    width:74px;
+    height:74px;
+}
+.icon-lieutenant-retinue-blqt-jn3-act{
+    background-image: url(https://static-global.goatgames.com/ops-static/DHS-GB/official/assets/images/sprite.png?v=4052335859);
+    background-repeat: no-repeat;
+    background-position: 0px -740px;
+    width:74px;
+    height:74px;
+}
+.icon-lieutenant-retinue-blqt-jn3{
+    background-image: url(https://static-global.goatgames.com/ops-static/DHS-GB/official/assets/images/sprite.png?v=4052335859);
+    background-repeat: no-repeat;
+    background-position: 0px -814px;
+    width:74px;
+    height:74px;
+}
+.icon-lieutenant-retinue-blqt{
+    background-image: url(https://static-global.goatgames.com/ops-static/DHS-GB/official/assets/images/sprite.png?v=4052335859);
+    background-repeat: no-repeat;
+    background-position: 0px -6507px;
+    width:93px;
+    height:123px;
+}
+.icon-lieutenant-retinue-emzl-act{
+    background-image: url(https://static-global.goatgames.com/ops-static/DHS-GB/official/assets/images/sprite.png?v=4052335859);
+    background-repeat: no-repeat;
+    background-position: 0px -4918px;
+    width:93px;
+    height:122px;
+}
+.icon-lieutenant-retinue-emzl-jn1-act{
+    background-image: url(https://static-global.goatgames.com/ops-static/DHS-GB/official/assets/images/sprite.png?v=4052335859);
+    background-repeat: no-repeat;
+    background-position: 0px -888px;
+    width:74px;
+    height:74px;
+}
+.icon-lieutenant-retinue-emzl-jn1{
+    background-image: url(https://static-global.goatgames.com/ops-static/DHS-GB/official/assets/images/sprite.png?v=4052335859);
+    background-repeat: no-repeat;
+    background-position: 0px -962px;
+    width:74px;
+    height:74px;
+}
+.icon-lieutenant-retinue-emzl-jn2-act{
+    background-image: url(https://static-global.goatgames.com/ops-static/DHS-GB/official/assets/images/sprite.png?v=4052335859);
+    background-repeat: no-repeat;
+    background-position: 0px -1036px;
+    width:74px;
+    height:74px;
+}
+.icon-lieutenant-retinue-emzl-jn2{
+    background-image: url(https://static-global.goatgames.com/ops-static/DHS-GB/official/assets/images/sprite.png?v=4052335859);
+    background-repeat: no-repeat;
+    background-position: 0px -1110px;
+    width:74px;
+    height:74px;
+}
+.icon-lieutenant-retinue-emzl-jn3-act{
+    background-image: url(https://static-global.goatgames.com/ops-static/DHS-GB/official/assets/images/sprite.png?v=4052335859);
+    background-repeat: no-repeat;
+    background-position: 0px -1184px;
+    width:74px;
+    height:74px;
+}
+.icon-lieutenant-retinue-emzl-jn3{
+    background-image: url(https://static-global.goatgames.com/ops-static/DHS-GB/official/assets/images/sprite.png?v=4052335859);
+    background-repeat: no-repeat;
+    background-position: 0px -1258px;
+    width:74px;
+    height:74px;
+}
+.icon-lieutenant-retinue-emzl{
+    background-image: url(https://static-global.goatgames.com/ops-static/DHS-GB/official/assets/images/sprite.png?v=4052335859);
+    background-repeat: no-repeat;
+    background-position: 0px -5040px;
+    width:93px;
+    height:122px;
+}
+.icon-lieutenant-retinue-hbt-act{
+    background-image: url(https://static-global.goatgames.com/ops-static/DHS-GB/official/assets/images/sprite.png?v=4052335859);
+    background-repeat: no-repeat;
+    background-position: 0px -5162px;
+    width:93px;
+    height:122px;
+}
+.icon-lieutenant-retinue-hbt-jn1-act{
+    background-image: url(https://static-global.goatgames.com/ops-static/DHS-GB/official/assets/images/sprite.png?v=4052335859);
+    background-repeat: no-repeat;
+    background-position: 0px -1332px;
+    width:74px;
+    height:74px;
+}
+.icon-lieutenant-retinue-hbt-jn1{
+    background-image: url(https://static-global.goatgames.com/ops-static/DHS-GB/official/assets/images/sprite.png?v=4052335859);
+    background-repeat: no-repeat;
+    background-position: 0px -1406px;
+    width:74px;
+    height:74px;
+}
+.icon-lieutenant-retinue-hbt-jn2-act{
+    background-image: url(https://static-global.goatgames.com/ops-static/DHS-GB/official/assets/images/sprite.png?v=4052335859);
+    background-repeat: no-repeat;
+    background-position: 0px -1480px;
+    width:74px;
+    height:74px;
+}
+.icon-lieutenant-retinue-hbt-jn2{
+    background-image: url(https://static-global.goatgames.com/ops-static/DHS-GB/official/assets/images/sprite.png?v=4052335859);
+    background-repeat: no-repeat;
+    background-position: 0px -1554px;
+    width:74px;
+    height:74px;
+}
+.icon-lieutenant-retinue-hbt-jn3-act{
+    background-image: url(https://static-global.goatgames.com/ops-static/DHS-GB/official/assets/images/sprite.png?v=4052335859);
+    background-repeat: no-repeat;
+    background-position: 0px -1628px;
+    width:74px;
+    height:74px;
+}
+.icon-lieutenant-retinue-hbt-jn3{
+    background-image: url(https://static-global.goatgames.com/ops-static/DHS-GB/official/assets/images/sprite.png?v=4052335859);
+    background-repeat: no-repeat;
+    background-position: 0px -1702px;
+    width:74px;
+    height:74px;
+}
+.icon-lieutenant-retinue-hbt{
+    background-image: url(https://static-global.goatgames.com/ops-static/DHS-GB/official/assets/images/sprite.png?v=4052335859);
+    background-repeat: no-repeat;
+    background-position: 0px -5284px;
+    width:93px;
+    height:122px;
+}
+.icon-lieutenant-retinue-kjm-act{
+    background-image: url(https://static-global.goatgames.com/ops-static/DHS-GB/official/assets/images/sprite.png?v=4052335859);
+    background-repeat: no-repeat;
+    background-position: 0px -6630px;
+    width:93px;
+    height:123px;
+}
+.icon-lieutenant-retinue-kjm-jn1-act{
+    background-image: url(https://static-global.goatgames.com/ops-static/DHS-GB/official/assets/images/sprite.png?v=4052335859);
+    background-repeat: no-repeat;
+    background-position: 0px -1776px;
+    width:74px;
+    height:74px;
+}
+.icon-lieutenant-retinue-kjm-jn1{
+    background-image: url(https://static-global.goatgames.com/ops-static/DHS-GB/official/assets/images/sprite.png?v=4052335859);
+    background-repeat: no-repeat;
+    background-position: 0px -1850px;
+    width:74px;
+    height:74px;
+}
+.icon-lieutenant-retinue-kjm-jn2-act{
+    background-image: url(https://static-global.goatgames.com/ops-static/DHS-GB/official/assets/images/sprite.png?v=4052335859);
+    background-repeat: no-repeat;
+    background-position: 0px -1924px;
+    width:74px;
+    height:74px;
+}
+.icon-lieutenant-retinue-kjm-jn2{
+    background-image: url(https://static-global.goatgames.com/ops-static/DHS-GB/official/assets/images/sprite.png?v=4052335859);
+    background-repeat: no-repeat;
+    background-position: 0px -1998px;
+    width:74px;
+    height:74px;
+}
+.icon-lieutenant-retinue-kjm-jn3-act{
+    background-image: url(https://static-global.goatgames.com/ops-static/DHS-GB/official/assets/images/sprite.png?v=4052335859);
+    background-repeat: no-repeat;
+    background-position: 0px -4292px;
+    width:74px;
+    height:77px;
+}
+.icon-lieutenant-retinue-kjm-jn3{
+    background-image: url(https://static-global.goatgames.com/ops-static/DHS-GB/official/assets/images/sprite.png?v=4052335859);
+    background-repeat: no-repeat;
+    background-position: 0px -4369px;
+    width:74px;
+    height:77px;
+}
+.icon-lieutenant-retinue-kjm{
+    background-image: url(https://static-global.goatgames.com/ops-static/DHS-GB/official/assets/images/sprite.png?v=4052335859);
+    background-repeat: no-repeat;
+    background-position: 0px -6753px;
+    width:93px;
+    height:123px;
+}
+.icon-lieutenant-retinue-klt-act{
+    background-image: url(https://static-global.goatgames.com/ops-static/DHS-GB/official/assets/images/sprite.png?v=4052335859);
+    background-repeat: no-repeat;
+    background-position: 0px -6876px;
+    width:93px;
+    height:123px;
+}
+.icon-lieutenant-retinue-klt-jn1-act{
+    background-image: url(https://static-global.goatgames.com/ops-static/DHS-GB/official/assets/images/sprite.png?v=4052335859);
+    background-repeat: no-repeat;
+    background-position: 0px -2072px;
+    width:74px;
+    height:74px;
+}
+.icon-lieutenant-retinue-klt-jn1{
+    background-image: url(https://static-global.goatgames.com/ops-static/DHS-GB/official/assets/images/sprite.png?v=4052335859);
+    background-repeat: no-repeat;
+    background-position: 0px -2146px;
+    width:74px;
+    height:74px;
+}
+.icon-lieutenant-retinue-klt-jn2-act{
+    background-image: url(https://static-global.goatgames.com/ops-static/DHS-GB/official/assets/images/sprite.png?v=4052335859);
+    background-repeat: no-repeat;
+    background-position: 0px -2220px;
+    width:74px;
+    height:74px;
+}
+.icon-lieutenant-retinue-klt-jn2{
+    background-image: url(https://static-global.goatgames.com/ops-static/DHS-GB/official/assets/images/sprite.png?v=4052335859);
+    background-repeat: no-repeat;
+    background-position: 0px -2294px;
+    width:74px;
+    height:74px;
+}
+.icon-lieutenant-retinue-klt-jn3-act{
+    background-image: url(https://static-global.goatgames.com/ops-static/DHS-GB/official/assets/images/sprite.png?v=4052335859);
+    background-repeat: no-repeat;
+    background-position: 0px -2368px;
+    width:74px;
+    height:74px;
+}
+.icon-lieutenant-retinue-klt-jn3{
+    background-image: url(https://static-global.goatgames.com/ops-static/DHS-GB/official/assets/images/sprite.png?v=4052335859);
+    background-repeat: no-repeat;
+    background-position: 0px -2442px;
+    width:74px;
+    height:74px;
+}
+.icon-lieutenant-retinue-klt{
+    background-image: url(https://static-global.goatgames.com/ops-static/DHS-GB/official/assets/images/sprite.png?v=4052335859);
+    background-repeat: no-repeat;
+    background-position: 0px -6999px;
+    width:93px;
+    height:123px;
+}
+.icon-lieutenant-retinue-mm-act{
+    background-image: url(https://static-global.goatgames.com/ops-static/DHS-GB/official/assets/images/sprite.png?v=4052335859);
+    background-repeat: no-repeat;
+    background-position: 0px -5406px;
+    width:93px;
+    height:122px;
+}
+.icon-lieutenant-retinue-mm-jn1-act{
+    background-image: url(https://static-global.goatgames.com/ops-static/DHS-GB/official/assets/images/sprite.png?v=4052335859);
+    background-repeat: no-repeat;
+    background-position: 0px -2516px;
+    width:74px;
+    height:74px;
+}
+.icon-lieutenant-retinue-mm-jn1{
+    background-image: url(https://static-global.goatgames.com/ops-static/DHS-GB/official/assets/images/sprite.png?v=4052335859);
+    background-repeat: no-repeat;
+    background-position: 0px -2590px;
+    width:74px;
+    height:74px;
+}
+.icon-lieutenant-retinue-mm-jn2-act{
+    background-image: url(https://static-global.goatgames.com/ops-static/DHS-GB/official/assets/images/sprite.png?v=4052335859);
+    background-repeat: no-repeat;
+    background-position: 0px -2664px;
+    width:74px;
+    height:74px;
+}
+.icon-lieutenant-retinue-mm-jn2{
+    background-image: url(https://static-global.goatgames.com/ops-static/DHS-GB/official/assets/images/sprite.png?v=4052335859);
+    background-repeat: no-repeat;
+    background-position: 0px -2738px;
+    width:74px;
+    height:74px;
+}
+.icon-lieutenant-retinue-mm-jn3-act{
+    background-image: url(https://static-global.goatgames.com/ops-static/DHS-GB/official/assets/images/sprite.png?v=4052335859);
+    background-repeat: no-repeat;
+    background-position: 0px -2812px;
+    width:74px;
+    height:74px;
+}
+.icon-lieutenant-retinue-mm-jn3{
+    background-image: url(https://static-global.goatgames.com/ops-static/DHS-GB/official/assets/images/sprite.png?v=4052335859);
+    background-repeat: no-repeat;
+    background-position: 0px -2886px;
+    width:74px;
+    height:74px;
+}
+.icon-lieutenant-retinue-mm{
+    background-image: url(https://static-global.goatgames.com/ops-static/DHS-GB/official/assets/images/sprite.png?v=4052335859);
+    background-repeat: no-repeat;
+    background-position: 0px -5528px;
+    width:93px;
+    height:122px;
+}
+.icon-lieutenant-retinue-nl-act{
+    background-image: url(https://static-global.goatgames.com/ops-static/DHS-GB/official/assets/images/sprite.png?v=4052335859);
+    background-repeat: no-repeat;
+    background-position: 0px -7122px;
+    width:93px;
+    height:123px;
+}
+.icon-lieutenant-retinue-nl-jn1-act{
+    background-image: url(https://static-global.goatgames.com/ops-static/DHS-GB/official/assets/images/sprite.png?v=4052335859);
+    background-repeat: no-repeat;
+    background-position: 0px -2960px;
+    width:74px;
+    height:74px;
+}
+.icon-lieutenant-retinue-nl-jn1{
+    background-image: url(https://static-global.goatgames.com/ops-static/DHS-GB/official/assets/images/sprite.png?v=4052335859);
+    background-repeat: no-repeat;
+    background-position: 0px -3034px;
+    width:74px;
+    height:74px;
+}
+.icon-lieutenant-retinue-nl-jn2-act{
+    background-image: url(https://static-global.goatgames.com/ops-static/DHS-GB/official/assets/images/sprite.png?v=4052335859);
+    background-repeat: no-repeat;
+    background-position: 0px -3108px;
+    width:74px;
+    height:74px;
+}
+.icon-lieutenant-retinue-nl-jn2{
+    background-image: url(https://static-global.goatgames.com/ops-static/DHS-GB/official/assets/images/sprite.png?v=4052335859);
+    background-repeat: no-repeat;
+    background-position: 0px -3182px;
+    width:74px;
+    height:74px;
+}
+.icon-lieutenant-retinue-nl-jn3-act{
+    background-image: url(https://static-global.goatgames.com/ops-static/DHS-GB/official/assets/images/sprite.png?v=4052335859);
+    background-repeat: no-repeat;
+    background-position: 0px -3256px;
+    width:74px;
+    height:74px;
+}
+.icon-lieutenant-retinue-nl-jn3{
+    background-image: url(https://static-global.goatgames.com/ops-static/DHS-GB/official/assets/images/sprite.png?v=4052335859);
+    background-repeat: no-repeat;
+    background-position: 0px -3330px;
+    width:74px;
+    height:74px;
+}
+.icon-lieutenant-retinue-nl{
+    background-image: url(https://static-global.goatgames.com/ops-static/DHS-GB/official/assets/images/sprite.png?v=4052335859);
+    background-repeat: no-repeat;
+    background-position: 0px -7245px;
+    width:93px;
+    height:123px;
+}
+.icon-lieutenant-retinue-tans-act{
+    background-image: url(https://static-global.goatgames.com/ops-static/DHS-GB/official/assets/images/sprite.png?v=4052335859);
+    background-repeat: no-repeat;
+    background-position: 0px -5650px;
+    width:93px;
+    height:122px;
+}
+.icon-lieutenant-retinue-tans-jn1-act{
+    background-image: url(https://static-global.goatgames.com/ops-static/DHS-GB/official/assets/images/sprite.png?v=4052335859);
+    background-repeat: no-repeat;
+    background-position: 0px -3404px;
+    width:74px;
+    height:74px;
+}
+.icon-lieutenant-retinue-tans-jn1{
+    background-image: url(https://static-global.goatgames.com/ops-static/DHS-GB/official/assets/images/sprite.png?v=4052335859);
+    background-repeat: no-repeat;
+    background-position: 0px -3478px;
+    width:74px;
+    height:74px;
+}
+.icon-lieutenant-retinue-tans-jn2-act{
+    background-image: url(https://static-global.goatgames.com/ops-static/DHS-GB/official/assets/images/sprite.png?v=4052335859);
+    background-repeat: no-repeat;
+    background-position: 0px -3552px;
+    width:74px;
+    height:74px;
+}
+.icon-lieutenant-retinue-tans-jn2{
+    background-image: url(https://static-global.goatgames.com/ops-static/DHS-GB/official/assets/images/sprite.png?v=4052335859);
+    background-repeat: no-repeat;
+    background-position: 0px -3626px;
+    width:74px;
+    height:74px;
+}
+.icon-lieutenant-retinue-tans-jn3-act{
+    background-image: url(https://static-global.goatgames.com/ops-static/DHS-GB/official/assets/images/sprite.png?v=4052335859);
+    background-repeat: no-repeat;
+    background-position: 0px -3700px;
+    width:74px;
+    height:74px;
+}
+.icon-lieutenant-retinue-tans-jn3{
+    background-image: url(https://static-global.goatgames.com/ops-static/DHS-GB/official/assets/images/sprite.png?v=4052335859);
+    background-repeat: no-repeat;
+    background-position: 0px -3774px;
+    width:74px;
+    height:74px;
+}
+.icon-lieutenant-retinue-tans{
+    background-image: url(https://static-global.goatgames.com/ops-static/DHS-GB/official/assets/images/sprite.png?v=4052335859);
+    background-repeat: no-repeat;
+    background-position: 0px -5772px;
+    width:93px;
+    height:122px;
+}
+.icon-lieutenant-retinue-ygmb-act{
+    background-image: url(https://static-global.goatgames.com/ops-static/DHS-GB/official/assets/images/sprite.png?v=4052335859);
+    background-repeat: no-repeat;
+    background-position: 0px -5894px;
+    width:93px;
+    height:122px;
+}
+.icon-lieutenant-retinue-ygmb-jn1-act{
+    background-image: url(https://static-global.goatgames.com/ops-static/DHS-GB/official/assets/images/sprite.png?v=4052335859);
+    background-repeat: no-repeat;
+    background-position: 0px -3848px;
+    width:74px;
+    height:74px;
+}
+.icon-lieutenant-retinue-ygmb-jn1{
+    background-image: url(https://static-global.goatgames.com/ops-static/DHS-GB/official/assets/images/sprite.png?v=4052335859);
+    background-repeat: no-repeat;
+    background-position: 0px -3922px;
+    width:74px;
+    height:74px;
+}
+.icon-lieutenant-retinue-ygmb-jn2-act{
+    background-image: url(https://static-global.goatgames.com/ops-static/DHS-GB/official/assets/images/sprite.png?v=4052335859);
+    background-repeat: no-repeat;
+    background-position: 0px -3996px;
+    width:74px;
+    height:74px;
+}
+.icon-lieutenant-retinue-ygmb-jn2{
+    background-image: url(https://static-global.goatgames.com/ops-static/DHS-GB/official/assets/images/sprite.png?v=4052335859);
+    background-repeat: no-repeat;
+    background-position: 0px -4070px;
+    width:74px;
+    height:74px;
+}
+.icon-lieutenant-retinue-ygmb-jn3-act{
+    background-image: url(https://static-global.goatgames.com/ops-static/DHS-GB/official/assets/images/sprite.png?v=4052335859);
+    background-repeat: no-repeat;
+    background-position: 0px -4144px;
+    width:74px;
+    height:74px;
+}
+.icon-lieutenant-retinue-ygmb-jn3{
+    background-image: url(https://static-global.goatgames.com/ops-static/DHS-GB/official/assets/images/sprite.png?v=4052335859);
+    background-repeat: no-repeat;
+    background-position: 0px -4218px;
+    width:74px;
+    height:74px;
+}
+.icon-lieutenant-retinue-ygmb{
+    background-image: url(https://static-global.goatgames.com/ops-static/DHS-GB/official/assets/images/sprite.png?v=4052335859);
+    background-repeat: no-repeat;
+    background-position: 0px -6016px;
+    width:93px;
+    height:122px;
+}
