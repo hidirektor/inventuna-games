@@ -41,8 +41,10 @@
 }
 
 .trailer-text {
+    text-decoration: none;
     font-family: 'RhodiumLibre-Regular';
     font-weight: normal;
+    font-size: 36px;
     margin-left: 10px;
     color: #ffffff;
 }

@@ -4917,17 +4917,15 @@ html {
 }
 
 .section-1 .top-title-wrap {
-    position: absolute;
-    z-index: 1;
-    top: 71%;
-    left: 50%;
-    width: 100%;
+    position: fixed;
+    z-index: 2;
+    top: 80%;
+    bottom: 10px;
     -webkit-transform: translateX(-50%);
-    transform: translateX(-50%);
+    transform: translateX(0%);
     font-family: RomanAntique;
     text-align: center;
     color: #fff;
-    text-transform: uppercase
 }
 
 .section-1 .top-title-wrap .top-large-title {
@@ -4942,10 +4940,10 @@ html {
 }
 
 .section-1 .top-button-container {
-    position: absolute;
+    position: fixed;
     z-index: 2;
-    bottom: 10.8%;
-    left: 50%;
+    bottom: 10px;
+    left: 10px;
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;
@@ -4956,7 +4954,7 @@ html {
     -ms-flex-pack: center;
     justify-content: center;
     -webkit-transform: translateX(-50%);
-    transform: translateX(-50%);
+    transform: translateX(0%);
     font-size: 0
 }
 
